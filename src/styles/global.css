@@ -1,0 +1,39 @@
+/* ==============================
+   FONT IMPORT
+============================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* ==============================
+   BASE STYLES
+============================== */
+html {
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #F5F3FF;
+  color: #1F2937;
+}
+
+/* ==============================
+   SCROLLBAR STYLING
+============================== */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7C3AED;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #EDE9FE;
+}
+
+/* ==============================
+   TRANSITION SMOOTHNESS
+============================== */
+* {
+  transition: all 0.2s ease-in-out;
+}
