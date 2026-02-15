@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](./public/screenshots/dashboard.png)
+![Dashboard Preview](.\public\screenshot\dashboard.png)
 
 A React + Vite + Tailwind CSS single-page application that simulates a fraud operations center dashboard. It uses mocked data and APIs, so you can run it locally with no backend required.
 
